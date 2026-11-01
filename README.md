@@ -1,8 +1,8 @@
 # ARI — Publication 001
 
-**Version:** 0.1 — Foundational Architecture  
+**Version:** 0.1.1 — Foundational Architecture  
 **Date:** 2026-11-01  
-**Status:** Public draft / publication candidate
+**Status:** Published
 
 ## What is ARI?
 
@@ -47,10 +47,19 @@ The intended long-term property is a memory whose **relationships can evolve und
 - `ARCHITECTURE.md` — public architecture
 - `DISCLOSURE_BOUNDARY.md` — what remains private
 - `PUBLICATION_CHECKLIST.md` — release procedure
-- `CITATION.cff` — citation metadata template
-- `zenodo_metadata.json` — Zenodo metadata draft
+- `CITATION.cff` — citation metadata
+- `.zenodo.json` — Zenodo metadata
 - `COPYRIGHT_NOTICE.md` — copyright / licensing status
+
+## DOI
+
+**ARI — all versions / concept DOI:**  
+https://doi.org/10.5281/zenodo.23861720
+
+**ARI Publication 001 — Version 0.1.1:**  
+https://doi.org/10.5281/zenodo.23861721
 
 ## Citation
 
-Citation metadata is prepared in `CITATION.cff`. Creator names and final repository/DOI values must be filled in at publication time.
+**Laurent, Jérémy. (2026). ARI — An Experience-Centric Architecture for Associative and Continual Artificial Intelligence (Version 0.1.1). Zenodo.**  
+https://doi.org/10.5281/zenodo.23861721
