@@ -1,12 +1,14 @@
 cff-version: 1.2.0
 message: "If you use or discuss ARI, please cite this publication."
 title: "ARI — An Experience-Centric Architecture for Associative and Continual Artificial Intelligence"
-type: article
-version: "0.1"
+type: software
+version: "0.1.1"
 date-released: "2026-11-01"
 abstract: "Foundational architecture for an experience-centric, associative, governed and revisable AI memory and learning framework."
 authors:
-  - name: "TO BE DECLARED AT PUBLICATION"
+  - family-names: "Laurent"
+    given-names: "Jérémy"
+    affiliation: "Projet ARI"
 keywords:
   - artificial intelligence
   - associative memory
@@ -16,5 +18,5 @@ keywords:
   - experience-centric learning
   - provenance
   - conflict resolution
-repository-code: "TO BE ADDED"
-doi: "TO BE ADDED"
+repository-code: "https://github.com/projetAri/ARI-PUBLIC"
+doi: "10.5281/zenodo.23861721"
