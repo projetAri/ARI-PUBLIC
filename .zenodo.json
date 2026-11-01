@@ -1,0 +1,24 @@
+{
+  "title": "ARI — An Experience-Centric Architecture for Associative and Continual Artificial Intelligence",
+  "creators": [
+    {
+      "name": "Laurent, Jérémy",
+      "affiliation": "Projet ARI"
+    }
+  ],
+  "version": "0.1.1",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "artificial intelligence",
+    "associative memory",
+    "continual learning",
+    "agent memory",
+    "knowledge representation",
+    "experience-centric learning",
+    "provenance",
+    "conflict resolution"
+  ],
+  "description": "ARI is an experimental experience-centric architecture investigating how memories, associations, hypotheses, evidence, conflicts, authority and revision can form a governed learning loop. Publication 001 presents the foundational architecture while keeping the private ALPHA implementation undisclosed."
+}
